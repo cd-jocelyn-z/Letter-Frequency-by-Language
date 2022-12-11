@@ -6,7 +6,7 @@ def get_letter_frequence(text):
     total_char = len(text)
 
     my_dict = {key: 0 for key in text}
-    
+
     for element in text:
         for key in my_dict:
             if element == key:
