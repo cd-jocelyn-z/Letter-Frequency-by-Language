@@ -1,0 +1,69 @@
+Leben
+
+Ada Byron im Alter von 4 Jahren
+Ada Lovelace wurde am 10. Dezember 1815 als Ada Augusta Byron geboren. Ihre Eltern stammten beide aus adeligen Familien. Adas Mutter, Anne Isabella Noel-Byron, 11. Baroness Wentworth, war eine intelligente, religiöse und gebildete Frau. Ihr Vater, George Gordon Byron, 6. Baron Byron, war einer der größten romantischen Dichter Englands. Er war für seine ausschweifende Lebensweise bekannt, in der er große Spielschulden anhäufte und viele Affären hatte.[2] Ada war das einzige ehelich geborene Kind ihres Vaters, seine beiden anderen Kinder hatten andere Mütter. Ada Lovelace' Mutter zog aufgrund andauernder Auseinandersetzungen mit Lord Byron am 16. Januar 1816 gemeinsam mit der einen Monat alten Ada zu ihren Eltern nach Kirkby Mallory.[3] Am 21. April 1816 unterzeichnete Lord Byron eine Trennungsurkunde und verließ England wenige Tage danach.[4] Bis auf ein anlässlich dieses Abschieds geschriebenes Gedicht[5] hatte Ada keine Beziehung zu ihrem Vater, sie traf nie mit ihm zusammen.[6] Als Ada acht Jahre alt war, starb er.[7]
+
+Zu Adas Lebzeiten war es Frauen in England noch nicht gestattet zu studieren. Stattdessen war es üblich, dass Mädchen aus wohlhabenden Familien Privatunterricht zuhause erhielten. Adas Mutter sorgte für eine sehr gute und breite Ausbildung ihrer Tochter. Den gesellschaftlichen Erwartungen entsprechend erhielt Ada Unterricht in Musik und Französisch. Da Adas Mutter sehr an Mathematik, Geometrie und Astronomie interessiert war und in ihrer Jugend selbst in diesen Fächern unterrichtet worden war, ermöglichte sie Ada auch eine naturwissenschaftliche Ausbildung. Zu ihren Tutoren gehörte Augustus De Morgan, Mathematikprofessor am University College London, der in seiner Forschung grundlegende Beiträge zur Entwicklung der mathematischen Logik lieferte. Diese Inhalte sollten später für ihr Verständnis der Analytical Engine sehr wichtig werden.[8][2]
+
+Ada Byron war als Kind und Jugendliche oft krank und wird von Zeitzeugen sowohl als leidenschaftlich als auch als ausgesprochen naturwissenschaftlich interessiert beschrieben.[9] Ada liebte Maschinen und verbrachte viele Stunden damit, neue Erfindungen und technische Diagramme zu studieren. Mit 13 Jahren erfand sie zum Spaß eine dampfgetriebene Flugmaschine und die „Wissenschaft“ der Flugologie.[2] Sie zeigte auch in der Öffentlichkeit ein reges Interesse an verschiedenen mathematischen und naturwissenschaftlichen Fragestellungen und verstieß damit gegen die gesellschaftlichen Konventionen ihrer Zeit.[6] Im Verlauf ihrer mathematischen Studien lernte Ada Lovelace die Mathematikerin Mary Somerville sowie Charles Babbage kennen, dessen Salon sie im Alter von 17 Jahren besuchte. Sie begann mit ihm eine langjährige wissenschaftliche Korrespondenz und wurde seine Mitarbeiterin.[6]
+
+Am 8. Juli 1835 heiratete Ada im Alter von 19 Jahren den Baron William King und wurde dadurch zur Baroness. Auch er verfügte über eine mathematische Bildung und ließ sich, da Frauen zu dieser Zeit der Zutritt zu Bibliotheken und Universitäten untersagt war,[6] ihr zuliebe in die Royal Society aufnehmen, wo er für sie Artikel abschrieb. Das Ehepaar hatte ein Haus in London und zusätzlich ein großes Anwesen im Süden von England und ein weiteres in Schottland. In den folgenden vier Jahren bekamen die beiden zusammen drei Kinder:
+
+Byron (1836–1862), Viscount Ockham, 12. Baron Wentworth;
+Anne Isabella, genannt Annabella (1837–1917), 15. Baroness Wentworth, ⚭ Wilfrid Scawen Blunt;
+Ralph Gordon (1839–1906), 2. Earl of Lovelace, 13. Baron Wentworth.
+Im Jahr 1838 wurde ihr Ehemann zum Earl (Grafen) Lovelace gemacht, und Ada wurde dadurch entsprechend zur Gräfin Lovelace.[2]
+
+Nach dem Tod von Ada Kings Mutter, 1860, änderte ihr Gatte als deren Generalerbe den Familiennamen von „King“ zu „King-Noel“.
+
+Ada Lovelaces Rolle als Ehefrau und Mutter machte für sie das wissenschaftliche Arbeiten immer schwieriger. In ihrer Korrespondenz mit Mary Somerville schrieb sie, dass sie eine unglückliche Ehe führe, weil ihr neben Schwangerschaften und Kinderbetreuung so wenig Zeit für ihr Studium der Mathematik und ihre zweite Leidenschaft, die Musik, bleibe; sie war eine „passionierte Harfenspielerin“.[6]
+
+Um sich abzulenken, stürzte sie sich ins Gesellschaftsleben und hatte mehrere Liebesaffären. Mit großer Begeisterung wettete sie auf Pferde.[6] Die letzten Jahre ihres Lebens soll sie mit der Entwicklung eines mathematisch ausgefeilten „sicheren“ Wettsystems verbracht haben. Ada Lovelace starb im Alter von 36 Jahren an einem Zervixkarzinom. Ihrem Wunsch entsprechend wurde sie neben ihrem Vater in der St. Maria Magdalena Kirche in Hucknall, Nottinghamshire, beigesetzt. Eine Gedenktafel in Latein erinnert bis heute daran.
+
+Werk
+Lovelace war ihr ganzes Leben lang interessiert an wissenschaftlichen Entwicklungen, inklusive Fragen nach der Möglichkeit zu fliegen oder die Arbeit des Gehirns mathematisch zu beschreiben.[10] Nach ihrem ersten Treffen mit Babbage 1833 war sie schnell fasziniert von dessen Arbeit an der „analytischen Maschine“. Sie nutzte ihre Bekanntschaft mit Mary Somerville, um so oft wie möglich an dem Rechenautomaten arbeiten zu können. Sie verglich die „analytische Maschine“ mit dem zu dieser Zeit hochmodernen dampfbetriebenen Jacquard-Webstuhl. Diese neuartigen Webstühle konnten per Lochkartenprogrammierung beliebig komplizierte Muster ohne direkten menschlichen Einfluss herstellen. Babbage war beeindruckt von Lovelaces Intelligenz und ihren analytischen Fähigkeiten.
+
+Babbages „analytische Maschine“ wurde zu seinen Lebzeiten niemals gebaut. Einerseits war die Feinmechanik noch nicht weit genug entwickelt, um die Maschinenteile in der nötigen Präzision herzustellen, andererseits verweigerte das britische Parlament die Finanzierung von Babbages Forschungsprogramm, nachdem es die Entwicklung der Vorgängermaschine – der Difference Engine – bereits mit 17.000 britischen Pfund gefördert hatte (ein Wert von rund 3,4 Millionen britischer Pfund im Jahr 2014). 1842 hielt Babbage einen Vortrag über seine Erfindung an der Universität von Turin. Der italienische Mathematiker Luigi Federico Menabrea fertigte auf dieser Grundlage eine Beschreibung von Babbages Analytical Engine auf Französisch an, die in der Schweiz erschien.[11] Auf Babbages Bitte hin übersetzte Ada Lovelace ihn im Jahr 1843 ins Englische. Der Artikel stellte eine Art Erläuterung und Bedienungsanleitung für die geplante Maschine dar. Sie erweiterte diese Übersetzung durch eigene Kommentare und Weiterentwicklungen.[12] Diese Notes waren bei ihrer Veröffentlichung etwa doppelt so umfangreich wie Menabreas ursprünglicher Artikel.[13]
+
+Babbage versuchte, die Bekanntheit von Lovelace zu nutzen, um unter ihrem Namen Kritik an der Streichung der finanziellen Mittel zu üben. Lovelace bestand jedoch darauf, ihren fachlichen Teil davon klar zu trennen.[14]
+
+In Lovelaces Notes finden sich eine Reihe dem Stand der Forschung um 1840 weit vorausgreifende Konzepte. Während ihre Beiträge zu Rechnerarchitektur und Grundlagen der Programmierung bis zu ihrer Wiederentdeckung in den 1980er Jahren weitgehend in Vergessenheit gerieten, spielten ihre Standpunkte zur künstlichen Intelligenz in erkenntnistheoretischen Debatten als „Lady Lovelace’s Objection“ bereits bei Begründung dieses Forschungsbereichs der Informatik eine gewisse Rolle.
+
+
+Die von Ada Lovelace entwickelte Tabelle für die Berechnung der Bernoulli-Zahlen ("Anmerkung G" der Notes).
+Ada Lovelace legte in den Notes einen schriftlichen Plan zur Berechnung der Bernoulli-Zahlen in Diagrammform vor, welcher als das erste veröffentlichte formale Programm gelten kann.[15]
+
+Wissenschaftlicher Beitrag
+Rechenmaschine und Computer
+Ein Kommentar ihrer Notes zeigt, dass sie den entscheidenden Unterschied zwischen einer bloßen Rechenmaschine und einem Computer herausgearbeitet hatte:
+
+„Die Grenzen der Arithmetik wurden in dem Augenblick überschritten, in dem die Idee zur Verwendung der [Programmier]Karten entstand, und die Analytical Engine hat keine Gemeinsamkeit mit schlichten Rechenmaschinen. Sie ist einmalig, und die Möglichkeiten, die sie andeutet, sind höchst interessant.“
+
+Eine Rechenmaschine kann nur eine fixe Berechnung durchführen oder ist auf die manuelle Eingabe der durchzuführenden Operationen angewiesen. Mit der Programmierung dagegen kann man beliebig komplexe Algorithmen für den Rechner formulieren und automatisch ablaufen lassen.
+
+Anwendungsbereiche der Maschine
+Eine zweite Bemerkung beweist, dass sie auch die Möglichkeit erkannte, mit einem Computer mehr als nur arithmetische Aufgaben zu bearbeiten:[16]
+
+„[Die Analytical Engine] könnte auf andere Dinge als Zahlen angewandt werden, wenn man Objekte finden könnte, deren Wechselwirkungen durch die abstrakte Wissenschaft der Operationen dargestellt werden können und die sich für die Bearbeitung durch die Anweisungen und Mechanismen des Gerätes eignen.“
+
+Babbages Motivation für die Analytical Engine war die Berechnung von Zahlentabellen für den Einsatz in Naturwissenschaft und Ingenieurwesen. Lovelace dagegen hatte das weitaus größere Potenzial der Maschine erkannt: Sie würde nicht nur numerische Berechnungen anstellen können, sondern auch Buchstaben kombinieren und Musik komponieren.[6] Diese nämlich beruhe auf den Relationen von Tönen, welche sich als Zahlenkombinationen ausdrücken ließen.[6]
+
+Hardware und Software
+Auch erkannte Ada Lovelace, dass die Maschine einen physischen Teil hat, nämlich die Kupferräder und Lochkarten, und einen symbolischen, also die automatischen Berechnungen, die in den Lochkarten codiert sind. Damit nahm sie die Unterteilung in Hardware und Software vorweg.[6]
+
+Lady Lovelace’s Objection
+In den Notes schreibt Lovelace 1843: „Die Maschine kann [nur] das tun, was wir ihr zu befehlen vermögen, sie kann der [Anm. d. Ü.: gemeint unserer] Analyse folgen. Sie hat jedoch keine Fähigkeit zur Erkenntnis analytischer Verhältnisse oder Wahrheiten.“ Umgangssprachlich postuliert Lovelace hier, dass eine Maschine im Gegensatz zum menschlichen Geist keine Fähigkeit zur Intuition habe und daher nicht zu eigener Erkenntnis befähigt sei.
+
+Alan Turing geht in seinem Artikel Computing Machinery and Intelligence aus dem Jahr 1950 auf diesen Einwand als „Lady Lovelace’s Objection“ ein.[17] Die These (und Turings Widerspruch dagegen) ist seitdem immer wieder Gegenstand von Debatten sowohl in der Informatik als auch in der Philosophie. Eine neuere Arbeit zu diesem Thema ist beispielsweise Alfonseca et al. (2021), MPIB; die Argumentation der Autoren stützt sich u. a. auf die Nicht-Entscheidbarkeit des Halteproblems.[18]
+
+Kritik an der Rezeption von Ada Lovelaces wissenschaftlichem Beitrag
+Verschiedene Forscher vertreten die Ansicht, dass Ada Lovelace nicht als erste Programmiererin gelten sollte. Der Charles-Babbage-Forscher Doron Swade führt als Beleg hierfür an, dass bereits Babbages persönliche Aufzeichnungen aus den Jahren 1836/1837 "Programme" für die Maschine enthielten – sechs bis sieben Jahre vor dem berühmten "Programm" von Lovelace. Er betont allerdings, dass dies keineswegs die Figur Lovelace' oder den Wert ihrer Beiträge unterminiere, da ihr originelles Verständnis der Fähigkeiten und Potenziale des Computers einen weit bedeutsameren Beitrag darstellte.[19][20] Des Weiteren erhoben Forscher Zweifel daran, ob bzw. zu welchem Grade jenes Programm überhaupt Ergebnis ihrer eigenen Arbeit ist.[20][21]
+
+Ehrungen und Projekte mit Bezug auf Ada Lovelace
+Die von Jean Ichbiah bei dem Unternehmen Honeywell Bull in den 1970er Jahren entworfene strukturierte Programmiersprache mit statischer Typenbindung Ada wurde nach ihr benannt.
+Von der Association of Women in Computing wird seit 1982 der nach ihr benannte Ada Lovelace Award verliehen.[22]
+Das 1997 gegründete rheinland-pfälzische Ada-Lovelace-Projekt fördert Mädchen und junge Frauen im MINT-Bereich (Mathematik, Informatik, Naturwissenschaften und Technik).[23]
+In Australien wurde die von Valerie Aurora und Mary Gardiner 2011 gegründete Ada Initiative nach Lovelace benannt, die sich für vermehrte weibliche Teilhabe im Open-Source-Umfeld einsetzt.[24]
+Ende September 2017 wurde das blockchainbasierte Netzwerk Cardano gestartet, dessen erste Anwendung, eine Kryptowährung, zu Ehren Lady Lovelace Ada genannt wurde.
+Seit 2009 wird jährlich Mitte Oktober der Ada Lovelace Day ausgerufen, an dem Frauen und ihre Werke in Wissenschaft, Technik, Ingenieurswissenschaften und Mathematik gefeiert werden.[25][26] Veranstaltungen im Zuge des Ada Lovelace Days waren unter anderem Wikipedia-Edit-a-thons mit dem Ziel, Frauen auf Wikipedia – sowohl in Artikeln als auch unter den Benutzern – sichtbarer zu machen und gegen den Gender-Bias auf Wikipedia vorzugehen.[27]
+In Hanau ist eine Straße nach ihr benannt.
