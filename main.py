@@ -1,12 +1,12 @@
 import os
-
 # Creates dictionary of letters and calculates frequency of appearance in text.
 def get_letter_frequence(text):
    
     text = ''.join(text.split())
-    my_dict = {key: 0 for key in text}
     total_char = len(text)
 
+    my_dict = {key: 0 for key in text}
+    
     for element in text:
         for key in my_dict:
             if element == key:
