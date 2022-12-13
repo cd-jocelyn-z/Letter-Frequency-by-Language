@@ -1,4 +1,4 @@
-# Component 5 of main: a dictionary of every language with values containging a dictionary of letter frequency (found in corpus)
+# Component 5 of main: a dictionary of every language with values containing a dictionary of letter frequence (found in corpus)
 
 def read_frequencies(freq_file):
     # print(freq_file.read())
