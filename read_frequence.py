@@ -1,14 +1,14 @@
-# Component 5 of main: a dictionary of every language with values containing a dictionary of letter frequence (found in corpus)
+# Component 5 of main: reading csv file: creating a dictionary of every language with values containing a dictionary of letter frequence (found in corpus)
 
 def read_frequencies(freq_file):
     # print(freq_file.read())
 
-    # initiating language dictionary
+    # initiating lang_dict keys, which contains the titles of each column in the csv file
     first_line = freq_file.readline().strip('\n')  # remove \n at the end of line
     header = first_line.split(",")
     # print(header)
 
-    # creates language list
+    # create language list
     language_list = []
     for element in header:
         if element != "letter":
@@ -19,11 +19,11 @@ def read_frequencies(freq_file):
     lang_dict = {key: 0 for key in header if key in language_list}
     # print(lang_dict)
 
-    # lines after "header" which contains the titles of each column in csv file
+    # lines after first read line, which contains the letter and its frequence in each language in seperate columns.
     remaining_lines = freq_file.read().split()
     # print(remaining_lines)
 
-    # sub dictionaries which will be values of lang_dict dictionary
+    # sub-dictionaries which will be values of lang_dict dictionary
     en_dict = {}
     fr_dict = {}
     de_dict = {}
@@ -32,17 +32,17 @@ def read_frequencies(freq_file):
     for line in remaining_lines:
         item = line.split(",")
 
-        # first column provides the letter (key)
+        # first column provides the key(letter) of each sub-dictionary
         letter = item[0]
 
-        # following columns correspond to position of the language in lang_dict
+        # following columns correspond to language position in lang_dict dictionary
         value_en = item[1]
         value_fr = item[2]
         value_de = item[3]
         value_es = item[4]
         value_it = item[5]
 
-        # sub dictionaries to values previously defined
+        # adding values to keys of each sub-dictionary
         en_dict[letter] = value_en
         fr_dict[letter] = value_fr
         de_dict[letter] = value_de
@@ -52,7 +52,7 @@ def read_frequencies(freq_file):
     # print(en_dict)
     # print(fr_dict)
 
-    # update the values of the lang_dict with letter frequence in each language
+    # update the values of the lang_dict with sub-dictionaries
     lang_dict["en"] = en_dict
     lang_dict["fr"] = fr_dict
     lang_dict["de"] = de_dict
