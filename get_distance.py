@@ -8,3 +8,10 @@ def dist_2d(p1,p2):
 print(dist_2d([4,0], [0,3]))
 print(dist_2d([5,2], [1,5]))
 
+def dist(p1,p2):
+    result = 0
+    for index in range(len(p1)):
+        print(index)
+        result += (p1[index] - p2[index])**2
+    return math.sqrt(result)
+print(dist([4, 0, 3, 6, 1], [0, 3, 0, 5, 0]))
