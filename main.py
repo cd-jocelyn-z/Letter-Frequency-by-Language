@@ -78,55 +78,34 @@ def lang_freq_dictionary():
 #print(lang_freq_dictionary())
 
 def read_frequencies(freq_file):
-    first_line = freq_file.readline().strip("\n")
-    header = first_line.split(",")
-    language_list = [element for element in header if element != "letter"]
 
-    # initialise lang_dict dictionary
-    lang_dict = {key:0 for key in header if key in language_list}
-    remaining_lines = freq_file.read().split()
-    en_dict = {}
-    fr_dict = {}
-    de_dict = {}
-    es_dict = {}
-    it_dict = {}
-    for line in remaining_lines:
-        item = line.split(",")
+    main_dictionary = {"en": {}, "fr": {}, "de": {}, "es": {}, "it": {}}
 
-        # first column
-        letter = item[0]
-        # following columns correspond to the position of the language in lang_dict
-        value_en = item[1]
-        value_fr = item[2]
-        value_de = item[3]
-        value_es = item[4]
-        value_it = item[5]
-        # sub-dictionaries
-        en_dict[letter] = value_en
-        fr_dict[letter] = value_fr
-        de_dict[letter] = value_de
-        es_dict[letter] = value_es
-        it_dict[letter] = value_it
-        
-    # update values of lang_dict
-    lang_dict["en"] = en_dict
-    lang_dict["fr"] = fr_dict
-    lang_dict["de"] = de_dict
-    lang_dict["es"] = es_dict
-    lang_dict["it"] = it_dict
-    
-    return lang_dict
+    with open(freq_file, "r") as f:
+        text_lines = f.readlines()
+        lines_to_read = [line for line in text_lines if line != text_lines[0]]
 
-file = open("./corpus/frequences.csv","r")
-# print(read_frequencies(file))
+        for line in lines_to_read:
+            line_items = line.strip().split(",")
+            main_dictionary["en"][line_items[0]] = line_items[1]
+            main_dictionary["fr"][line_items[0]] = line_items[2]
+            main_dictionary["de"][line_items[0]] = line_items[3]
+            main_dictionary["es"][line_items[0]] = line_items[4]
+            main_dictionary["it"][line_items[0]] = line_items[5]
+
+    return main_dictionary
+
+
+file = os.path.join(os.curdir, "corpus", "frequences.csv")
+print(read_frequencies(file))
 
 def dist_2d(p1,p2):
     distance = ((p1[0] - p2[0]) ** 2) + ((p1[1] - p2[1]) ** 2)
 
     return math.sqrt(distance)
 
-# print(dist_2d([4,0], [0,3]))
-# print(dist_2d([5,2], [1,5]))
+print(dist_2d([4,0], [0,3]))
+print(dist_2d([5, 2], [1, 5]))
 
 def dist(p1,p2):
     distance = 0
@@ -136,21 +115,16 @@ def dist(p1,p2):
 
     return math.sqrt(distance)
 
-
-# print(dist([4, 0, 3, 6, 1], [0, 3, 0, 5, 0]))
+print(dist([4, 0, 3, 6, 1], [0, 3, 0, 5, 0]))
 
 
 def frequencies_to_vector(lang_dict):
     vowels = ["a","e","i","o","u"]
-    frequencies = []
 
-    for vowel in vowels:
-        if vowel in lang_dict:
-            frequencies.append(lang_dict[vowel])
-
+    frequencies = [lang_dict[vowel] for vowel in vowels if vowel in lang_dict]
     return frequencies
 
-file = open("./corpus/frequences.csv")
-lg_freq =read_frequencies(file)
+file = os.path.join(os.curdir,"corpus", "frequences.csv")
+lg_freq = read_frequencies(file)
 f_v = frequencies_to_vector(lg_freq["en"])
-# print(f_v)
+print(f_v)
